@@ -336,13 +336,13 @@ def menu():
              [']  /'|'\           \\
                  /  \  \           '
                  \_  \_ \_    \rk*\rhITIW TEAM
-\rk##############################################
+\rk###########################################
 #        \rb*ITIW TEAM HACK FACEBOOK*\rk        #
 # \rhBY\rp                             DUNSKY \rk#
 # \rhFACEBOOK:\rp            MUHAMMAD DADUN j \rk#
 # \rhGREETZ:\rp  ALLAH & ALL MEMBER ITIW GRUP \rk#
 #      \rmJANGAN BILANG W HEKER PAMAN :).     \rk#
-###########################################################''')
+############################################''')
 	tampil('''\rk%s\n\rc1 \rhAmbil id dari group\n\rc2 \rhAmbil id dari daftar teman\n\rc3 \rmKELUAR\n\rk%s'''%('#'*20,'#'*20))
 	i = inputM('[?]PILIH',[1,2,3])
 	if i == 1:
